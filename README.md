@@ -3,6 +3,9 @@
 This script is used to update the DNS record of a domain hosted on Digital Ocean. 
 It is useful when you have a dynamic IP address and you want to keep your domain pointing to your server.
 
+## How works
+![alt diagram](./resources/diagram.png) 
+
 ## How to use
 
 You can run the script with the following command:
